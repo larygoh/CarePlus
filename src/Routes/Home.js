@@ -25,10 +25,14 @@ function Home() {
                 <div class="card-body mt-4">
                     <h4 class="card-title"><strong>Conheça nossos serviços!</strong></h4>
                     <p class="card-text">Nosso propósito é cuidar e incluir todas as pessoas e suas necessidades.</p>
-                    <a href="/" class="btn btn-primary">Veja as especialidades</a>
+                    <a href="/especialidades" class="btn">Veja as especialidades</a>
                 </div>
             </div>
 
+            <section class="text-center">
+                <h4 class="mt-5"><strong>Saiba em quais situações podemos te ajudar:</strong></h4>
+                <p>Sabemos que existem diversos modos de apoio desde acompanhante até pós-cirúrgico, por isso desenvolvemos um  amplo sistema de escolha para você cliente, podendo assim fazer uma escolha mais assertiva ao decidir qual assistência será melhor.</p>
+            </section>
 
             <div class="container">
                 <div class="row g-4 mt-3">
@@ -70,6 +74,9 @@ function Home() {
                     </div>
                 </div>
             </div>
+            <footer>
+                Copyright 2023 © - CarePlus™
+            </footer>
         </>
     )
 }

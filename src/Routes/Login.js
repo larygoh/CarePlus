@@ -6,7 +6,8 @@ function Login() {
         <>
             <Navbar />
 
-            <div class="container">
+            <div class="container pt-5">
+                <h3 class="pb-3">Já possui login? Faça seu acesso!</h3>
                 <div class="card p-5">
                     <div class="form-group mb-2">
                         <label for="username">Usuário</label>
@@ -22,6 +23,7 @@ function Login() {
                     <button class="btn btn-sm btn-primary">Entrar</button>
                 </div>
             </div>
+           
         </>
     )
 }

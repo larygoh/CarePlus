@@ -3,3 +3,24 @@
 body {
   font-family: 'Poppins', sans-serif;
 }
+
+.cabecalho {
+  display: flex;
+  width: 100%;
+}
+
+footer {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #2eadcd;
+  color: #ffffff;
+  box-sizing: border-box;
+}
+
+.btn {
+  background-color: #2eadcd;
+  color:#ffffff;
+}

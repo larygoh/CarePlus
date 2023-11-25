@@ -22,7 +22,7 @@ function Minhaconta() {
                 </div>
             </section>
             <div className='row'>
-                <div className='card'>
+                <div className='card card-minhaconta'>
                     <h5 className='card-text'><strong>Agendamentos</strong></h5>
                     <p className='card-text'>Data:07/12/2023</p>
                     <p className='card-text'>Cuidador: José Eduardo</p>

@@ -7,7 +7,7 @@ function Navbar() {
             <nav class="navbar navbar-expand-sm navbar-light" aria-label="Third navbar example">
                 <div class="container-fluid">
                     <a class="ms-4 navbar-brand" href="#">
-                        <img src="images/logo-nav.jpeg" alt="Logo" width="32px"></img>
+                        <img src="images/logo.png" alt="Logo" width="32px"></img>
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample03" aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>

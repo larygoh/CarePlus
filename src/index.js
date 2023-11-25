@@ -5,6 +5,8 @@ import './index.css';
 import Home from './Routes/Home';
 import Login from './Routes/Login';
 import Especialidades from './Routes/Especialidades';
+import Minhaconta from './Routes/Minhaconta';
+
 
 const router = createBrowserRouter([
   {
@@ -19,6 +21,10 @@ const router = createBrowserRouter([
     path: "especialidades",
     element: <Especialidades />
   },
+  {
+    path: "minhaconta",
+    element: <Minhaconta />
+  }
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

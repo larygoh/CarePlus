@@ -15,7 +15,7 @@ function Home() {
                             <h3>Saiba mais!</h3>
                         </div>
                         <div class="col-md-4">
-                            <img class="img-fluid" src='images/logo-body.jpeg' alt="Logo" />
+                            <img class="img-fluid" src='images/logo.png' alt="Logo" />
                         </div>
                     </div>
                 </div>

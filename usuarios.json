@@ -1,0 +1,28 @@
+
+
+[
+    {
+        "username":"joao",
+        "password":"123"
+    },
+    {
+        "username":"igor",
+        "password":"143"
+    },
+    {
+        "username":"maria",
+        "password":"147"
+    },
+    {
+        "username":"guilherme",
+        "password":"473"
+    },
+    {
+        "username":"julia",
+        "password":"789"
+    },
+    {
+        "username":"joana",
+        "password":"368"
+    }
+]
